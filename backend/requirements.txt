@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+groq
+faiss-cpu
+sentence-transformers
+sqlalchemy
+psycopg2-binary
+python-multipart
