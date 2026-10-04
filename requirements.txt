@@ -7,3 +7,4 @@ sentence-transformers
 sqlalchemy
 psycopg2-binary
 python-multipart
+python-dotenv
