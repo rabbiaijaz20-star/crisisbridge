@@ -1,0 +1,14 @@
+.env
+backend/.env
+venv/
+backend/venv/
+__pycache__/
+backend/__pycache__/
+ml/__pycache__/
+*.pyc
+*.db
+backend/*.db
+node_modules/
+dist/
+models/*.bin
+models/*.safetensors

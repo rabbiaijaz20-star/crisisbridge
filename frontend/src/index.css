@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturCook:wght@700&family=Cormorant+Garamond:wght@600;700&display=swap');
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
+}
+
+body {
+  display: block;
+  text-align: left;
+}
+
+#root {
+  max-width: none;
+  border: none;
+  text-align: left;
+}
